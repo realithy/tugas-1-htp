@@ -1,8 +1,9 @@
 Materi pelatihan
-HTML & CSS
+Web design
 JS
 Github
 PHP
 MySQL
 Laravel
 Rest API
+Final Project
